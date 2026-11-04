@@ -1,7 +1,0 @@
-{
-    "app_id":"aicrm",
-    "min_support_code":1010,
-    "releases":[
-    {"version":"1.1.1","support_code":1010,"download_url":"","size":33,"hash":"","release_note":"本次修复了一些问题，优化了使用体验"}
-    ]
-}

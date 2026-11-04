@@ -1,0 +1,10 @@
+{
+  "app_name": "aicrm",
+  "download_url": "/aicrm/update/download",
+  "hash": "f4432413d5ef3b69cb51c20c2408dcdfd6924b0b7bf6d19d7e6840baaffda7bc",
+  "package_path": "packages/aicrm/android/AICRM-1.2.3-20261102-debug.apk",
+  "release_note": "本次修复了一些问题，优化了使用体验",
+  "size": 13645941,
+  "support_code": 100,
+  "version": "1.0.0"
+}
